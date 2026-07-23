@@ -1,4 +1,4 @@
-# WeiboAdroid
+# WeiboAndroid
 > 仓库：`https://github.com/winisrf/weibo-master`  
 > 分支：`main`  
 > 项目日期：2023  
